@@ -1,0 +1,6 @@
+.env
+.venv
+__pycache__
+movies_metadata.csv
+.ipynb_checkpoints
+movies.ipynb
